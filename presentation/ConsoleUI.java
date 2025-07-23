@@ -23,7 +23,7 @@ public class ConsoleUI{
             scanner.nextLine();
 
             switch(choice){
-                case 1: parlVehicle(); break;
+                case 1: parkVehicle(); break;
                 case 2: unparkVehicle(); break;
                 case 3: parkingService.displaySlots(); break;
                 case 4: 
