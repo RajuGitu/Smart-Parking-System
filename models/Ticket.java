@@ -21,7 +21,7 @@ public class Ticket{
     public Vehicle getvehicle(){
         return vehicle;  
     }
-    public int slotId(){
+    public int getSlotId(){
         return slotId;
     }
     public LocalDateTime getEntryTime(){
